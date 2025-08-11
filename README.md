@@ -1,5 +1,5 @@
 # chris-spanish-flashcard-app
- A React web app for practicing Spanish vocabulary using flashcards.
+ A React web app that I made for practicing Spanish vocabulary using flashcards.
 
 
 ## Features
@@ -32,4 +32,4 @@
 
 ## License
 
-MIT
+MIT .C.Chapman
